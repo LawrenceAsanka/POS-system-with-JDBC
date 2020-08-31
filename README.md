@@ -2,7 +2,7 @@
 
 POS System using Java and MySQL.
 
-In this **POS System** has all the functionalities of a pos system, like customer adding,item management,order placing,order viewing and order searching.It consists of four main parts;
+In this **POS System** has all the functionalities of a pos system, like customer adding,item management,order placing,order viewing and order searching.It consists of five main parts;
 
     * Manage customers
     * Manage items
