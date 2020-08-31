@@ -1,0 +1,12 @@
+.button{
+    -fx-background-color: #3F2B63;
+    -fx-background-radius: 100px;
+
+}
+.button:hover{
+    -fx-background-color: #2A1C42;
+}
+
+.text-field{
+    -fx-text-fill: #2A1C42;
+}
