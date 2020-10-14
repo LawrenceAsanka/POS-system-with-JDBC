@@ -1,7 +1,5 @@
 # POS System With JDBC
 
-POS System using Java and MySQL.
-
 In this **POS System** has all the functionalities of a pos system, like customer adding,item management,order placing,order viewing and order searching.It consists of five main parts;
 
     * Manage customers
@@ -9,7 +7,13 @@ In this **POS System** has all the functionalities of a pos system, like custome
     * Placeorders
     * View orders
     * Search orders
+    
+This system has developed by using Java, JDBC and MySQL.
 
+Java Database Connectivity (JDBC) is an application programming interface (API) for the programming language 
+Java, which defines how a client may access a database. It is a Java-based data access technology used for 
+Java database connectivity. It is part of the Java Standard Edition platform, from Oracle Corporation.   
+    
 Further this POS System has implemented by using various technologies and frameworks.Click above link to check those implementations.
 
 [Different Implementations of POS System](https://github.com/LawrenceAsanka/Point-of-Sale-System/blob/master/README.md)
