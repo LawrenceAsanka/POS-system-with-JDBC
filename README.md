@@ -14,7 +14,7 @@ Java Database Connectivity (JDBC) is an application programming interface (API) 
 Java, which defines how a client may access a database. It is a Java-based data access technology used for 
 Java database connectivity. It is part of the Java Standard Edition platform, from Oracle Corporation.   
     
-Further this POS System has implemented by using various technologies and frameworks.Click above link to check those implementations.
+Further this POS System has implemented by using various technologies and frameworks.Click the above link to check those implementations.
 
 [Different Implementations of POS System](https://github.com/LawrenceAsanka/Point-of-Sale-System/blob/master/README.md)
 
